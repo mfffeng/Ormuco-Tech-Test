@@ -1,4 +1,5 @@
-# Problems
+# Problems & Assumptions
+1. I only used print statements for testing. But formal tests (e.g., with pytest) can be provided if needed.
 1. I only provided sketch programs for B and C, even though they ask for "library", because:
     * Individual `.py` files can technically be redistributed and serve as libraries.
     * Formally packaging libraries involves work on its own and is really not the point of the questions.
